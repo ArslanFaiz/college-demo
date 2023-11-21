@@ -1,3 +1,3 @@
 # college-demo
 This is my first git repository.<br>
-Author-Muhammad Arslan Faiz.
+Author-Muhammad Arslan Faiz Ul Rasool.
